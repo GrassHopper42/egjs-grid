@@ -12,6 +12,7 @@
     <a href="https://naver.github.io/egjs-grid/release/latest/doc/" target="_blank"><strong>API</strong></a>
 </p>
 
+# Fork from @egjs/grid
 
 ## Grids
 

@@ -1,7 +1,7 @@
 {
-	"name": "@egjs/grid",
-	"version": "1.11.0-snapshot",
-	"description": "A component that can arrange items according to the type of grids",
+	"name": "@grasshopper42/grid",
+	"version": "0.0.1",
+	"description": "Fork from @egjs/grid",
 	"main": "dist/grid.cjs.js",
 	"module": "dist/grid.esm.js",
 	"types": "declaration/index.d.ts",
@@ -54,7 +54,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/naver/egjs-grid"
+		"url": "https://github.com/grasshopper42/egjs-grid"
 	},
 	"author": {
 		"name": "NAVER Corp."
