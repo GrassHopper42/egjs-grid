@@ -1,5 +1,5 @@
 import Grid from "../Grid.svelte";
-import { FrameGrid as GridClass } from "@egjs/grid";
+import { FrameGrid as GridClass } from "@grasshopper42/grid";
 
 let FrameGrid;
 

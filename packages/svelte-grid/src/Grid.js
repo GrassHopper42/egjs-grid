@@ -4,7 +4,7 @@
  * MIT license
  */
 import Grid from './Grid.svelte';
-import { GRID_METHODS } from '@egjs/grid';
+import { GRID_METHODS } from '@grasshopper42/grid';
 
 export default /*#__PURE__*/ (() => {
   const prototype = Grid.prototype;

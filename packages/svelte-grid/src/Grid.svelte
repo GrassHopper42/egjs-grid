@@ -5,7 +5,7 @@
    * MIT license
    */
   import { onMount, beforeUpdate, createEventDispatcher, onDestroy, afterUpdate } from "svelte";
-  import { GRID_EVENTS } from "@egjs/grid";
+  import { GRID_EVENTS } from "@grasshopper42/grid";
   export let GridClass;
 
   const dispatch = createEventDispatcher();

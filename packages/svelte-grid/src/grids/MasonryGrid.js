@@ -1,5 +1,5 @@
 import Grid from "../Grid.svelte";
-import { MasonryGrid as GridClass } from "@egjs/grid";
+import { MasonryGrid as GridClass } from "@grasshopper42/grid";
 
 let MasonryGrid;
 

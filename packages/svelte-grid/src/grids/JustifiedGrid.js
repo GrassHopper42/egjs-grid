@@ -1,5 +1,5 @@
 import Grid from "../Grid.svelte";
-import { JustifiedGrid as GridClass } from "@egjs/grid";
+import { JustifiedGrid as GridClass } from "@grasshopper42/grid";
 
 let JustifiedGrid;
 

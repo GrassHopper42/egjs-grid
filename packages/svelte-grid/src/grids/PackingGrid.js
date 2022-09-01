@@ -1,5 +1,5 @@
 import Grid from "../Grid.svelte";
-import { PackingGrid as GridClass } from "@egjs/grid";
+import { PackingGrid as GridClass } from "@grasshopper42/grid";
 
 let PackingGrid;
 

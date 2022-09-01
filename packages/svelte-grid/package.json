@@ -1,6 +1,6 @@
 {
   "name": "@grasshopper42/svelte-grid",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Fork temporary from @egjs/svelte-grid",
   "sideEffects": false,
   "svelte": "src/index.js",
@@ -69,6 +69,6 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
-    "@grasshopper42/grid": "0.0.1"
+    "@grasshopper42/grid": "^0.0.3"
   }
 }

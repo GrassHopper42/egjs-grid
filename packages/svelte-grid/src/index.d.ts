@@ -1,7 +1,7 @@
 import VanillaGrid, {
   FrameGridOptions, GridMethods, GridOptions, JustifiedGridOptions,
   MasonryGridOptions, PackingGridOptions,
-} from "@egjs/grid";
+} from "@grasshopper42/grid";
 import { SvelteComponentDev } from "svelte/internal";
 
 

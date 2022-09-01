@@ -1,6 +1,6 @@
 {
 	"name": "@grasshopper42/grid",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "Fork from @egjs/grid",
 	"main": "dist/grid.cjs.js",
 	"module": "dist/grid.esm.js",
@@ -45,9 +45,9 @@
 		"demo:deploy-init": "gh-pages -d demo/ --remote upstream",
 		"release": "release-helper upstream",
 		"packages": "npm run packages:update && npm run packages:build && npm run packages:publish",
-		"packages:update": "pvu --update=react-grid,ngx-grid/projects/ngx-grid,vue-grid,svelte-grid",
-		"packages:build": "pvu --build=react-grid,ngx-grid/,vue-grid,svelte-grid",
-		"packages:publish": "pvu --publish=react-grid,ngx-grid/dist/ngx-grid,vue-grid,svelte-grid",
+		"packages:update": "pvu --update=svelte-grid",
+		"packages:build": "pvu --build=svelte-grid",
+		"packages:publish": "pvu --publish=svelte-grid",
 		"storybook": "rm -rf node_modules/.cache/storybook/ && npm run storybook:readme && start-storybook -p 6006",
 		"storybook:readme": "node ./.storybook/readme.js",
 		"build:storybook": "npm run storybook:readme && build-storybook -o ./demo/storybook"
